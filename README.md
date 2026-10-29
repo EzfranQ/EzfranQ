@@ -6,8 +6,6 @@
 
 ### Front-End Developer · Uruguay 🇺🇾 · Venezuela 🇻🇪
 
-
-**Desarrollo web que desafía la gravedad** 
 Fundador de la agencia [**Astravit**](https://astravit.com) · Interfaces rápidas, accesibles y con SEO desde el día uno.
 
 <br/>
