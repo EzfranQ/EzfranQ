@@ -1,90 +1,114 @@
 <div align="center">
 
-Francisco Quijada
+<!-- Tip: podés reemplazar este título por un banner .png/.svg con el gradiente de marca (#C084FC → #7E22CE). -->
 
-Front-End Developer · Founder of Astravit
+# 👋 Hola, soy Francisco Quijada
 
-Montevideo, Uruguay 🇺🇾 · Venezuela 🇻🇪
+### Front-End Developer · Uruguay 🇺🇾 · Venezuela 🇻🇪
 
-Desarrollo web que desafía la gravedad.
 
-Construyo experiencias web a medida, rápidas y accesibles, con foco en rendimiento, SEO y soluciones que funcionan en producción.
+**Desarrollo web que desafía la gravedad** 🚀
+Fundador de la agencia [**Astravit**](https://astravit.com) · Interfaces rápidas, accesibles y con SEO desde el día uno.
 
-Portfolio · Astravit · GitHub · Contacto
+<br/>
+
+[![Web](https://img.shields.io/badge/Portafolio-ezfrandev.astravit.com-7E22CE?style=for-the-badge&logo=astro&logoColor=white)](https://ezfrandev.astravit.com)
+[![Astravit](https://img.shields.io/badge/Agencia-astravit.com-C084FC?style=for-the-badge&logo=rocket&logoColor=white)](https://astravit.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escribime-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/geq8p9)
+[![Email](https://img.shields.io/badge/Email-contacto-050A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quijada.ezfrandev@gmail.com)
 
 </div>
 
-Sobre mí
+---
 
-Soy Técnico Superior en Informática y desarrollador web con más de 3 años de experiencia. Trabajo como freelance y soy fundador de Astravit, una agencia de desarrollo web enfocada en crear soluciones digitales a medida.
+## 🛰️ Sobre mí
 
-Me especializo en construir productos sin depender de plantillas ni page builders, priorizando el rendimiento, la mantenibilidad y una buena experiencia de usuario.
+Técnico Superior en Informática con +3 años desarrollando web. Trabajo como **freelance** y soy **fundador de Astravit**, la agencia con la que construimos tiendas online, landings y apps a medida — **con código propio, sin plantillas ni page builders**.
 
-Desarrollo web: sitios, tiendas online y aplicaciones a medida.
-Rendimiento: optimización de carga, Core Web Vitals y accesibilidad.
-SEO técnico: indexación, datos estructurados y optimización para buscadores.
-Automatización: integración de herramientas de IA y mejora de flujos de trabajo.
-Tecnologías
+- 🎯 Me especializo en **interfaces rápidas, accesibles y responsivas** (Core Web Vitals arriba, egress abajo).
+- 🤖 Integro **inteligencia artificial** en mi flujo de trabajo y **automatizo** las tareas repetitivas.
+- 🔍 Sumo **SEO técnico y posicionamiento** en Google desde el arranque, con datos de Search Console, no promesas.
 
-Frontend
+---
 
-!Astro !React !Next.js !Vue.js !TypeScript !JavaScript !Tailwind CSS
+## 🧰 Stack & herramientas
 
-Backend, bases de datos e infraestructura
+**Lenguajes & frameworks**
 
-!Supabase !MySQL !Express !Prisma !Cloudflare !Railway
+![Astro](https://img.shields.io/badge/Astro-7E22CE?style=for-the-badge&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-7E22CE?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-7E22CE?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-7E22CE?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7E22CE?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7E22CE?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-7E22CE?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-7E22CE?style=for-the-badge&logo=flutter&logoColor=white)
 
-Otras herramientas y plataformas
+**Datos, infra & herramientas**
 
-!Flutter !C++ !Qt !Git !GitHub
+![Supabase](https://img.shields.io/badge/Supabase-050A30?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![MySQL](https://img.shields.io/badge/MySQL-050A30?style=for-the-badge&logo=mysql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-050A30?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Railway](https://img.shields.io/badge/Railway-050A30?style=for-the-badge&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-050A30?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-050A30?style=for-the-badge&logo=github&logoColor=white)
 
-Proyectos seleccionados
+---
 
-Proyectos desarrollados para negocios y productos reales, principalmente a través de Astravit.
+## 🚀 Proyectos destacados
 
-Proyecto	Descripción	Tecnologías	Enlace
-Cacao Import	E-commerce mayorista y minorista de hogar y tecnología	Astro · Supabase	Visitar
-Es Lo Q' Hay	Tienda online de artículos para el hogar	Astro SSR · Supabase	Visitar
-Curva Store	E-commerce con panel de administración propio	Astro · Express · Prisma	Visitar
-Arenal Grande Online	Bazar y tienda de productos importados	Astro · Cloudflare	Visitar
-PerdiEncontre	Plataforma uruguaya de objetos perdidos y encontrados	Astro SSR · Supabase	Visitar
-JackVá Uruguay	Sitio web de casas prefabricadas	Astro	Visitar
-JackVá Colonia	Catálogo de casas modulares y cápsulas	Astro · React	Visitar
-JackVá Tienda	Catálogo y tienda de productos	Astro · Cloudflare	Visitar
-JackVá Pinturas	Sitio web de servicios de pintura y acabados	Astro	Visitar
-Pascola Studios	Portfolio para un estudio creativo	Astro	Visitar
-AirsoftUY	Aplicación móvil con partidas, marketplace y funciones en tiempo real	Flutter	Google Play
-LauncherVit	Launcher de escritorio para Minecraft	C++ · Qt	GitHub
-Astravit
+Proyectos reales en producción — la mayoría hechos con/para **Astravit**.
 
-Desarrollo web a medida para negocios que quieren crecer.
+| Proyecto | Qué es | Stack | En vivo |
+|---|---|---|---|
+| **Cacao Import** | E-commerce mayorista y minorista (hogar y tecnología) | Astro · Supabase | [cacaoimport.com](https://cacaoimport.com) |
+| **Es Lo Q' Hay** | Tienda liquidadora de artículos para el hogar | Astro SSR · Supabase | [esloquehay.com.uy](https://www.esloquehay.com.uy) |
+| **Curva Store** | Tienda online con panel propio | Astro · Express · Prisma | [curvastore.com.uy](https://curvastore.com.uy) |
+| **Arenal Grande Online** | Bazar e importados mayor/menor | Astro · Cloudflare | [arenalgrandeonline.com.uy](https://arenalgrandeonline.com.uy) |
+| **JackVá Uruguay** | Casas prefabricadas (inmobiliaria) | Astro | [jackvauruguay.com](https://jackvauruguay.com) |
+| **JackVá Colonia** | Casas modulares y cápsulas | Astro · React | [jackvacolonia.com](https://jackvacolonia.com) |
+| **JackVá Tienda** | Catálogo/tienda de productos | Astro · Cloudflare | [jackvatutienda.com](https://jackvatutienda.com) |
+| **JackVá Pinturas** | Servicios de pintura y acabados | Astro | [jackvapintar.com](https://jackvapintar.com) |
+| **PerdiEncontre** | Objetos perdidos y encontrados en Uruguay | Astro SSR · Supabase | [perdiencontre.com.uy](https://perdiencontre.com.uy) |
+| **Pascola Studios** | Portfolio de estudio creativo | Astro | [pascolastudio.astravit.com](https://pascolastudio.astravit.com) |
+| **AirsoftUY** | App móvil nativa (partidas, marketplace, tiempo real) | Flutter | [Google Play](https://play.google.com/store/apps/details?id=uy.airsoftuy.app) |
+| **LauncherVit** | Launcher de escritorio para Minecraft | C++ · Qt | [Repo](https://github.com/EzfranQ/launchervit) |
 
-Soy fundador de Astravit, una agencia de desarrollo web con base en Montevideo, Uruguay, que trabaja con clientes de toda Latinoamérica.
+---
 
-Creamos soluciones digitales con código propio, priorizando el rendimiento, la escalabilidad y el posicionamiento orgánico.
+## 🌌 Astravit — Agencia de desarrollo web
 
-E-commerce: tiendas online adaptadas a cada negocio y mercado.
-Landing pages: páginas orientadas a campañas y conversión.
-Desarrollo a medida: funcionalidades, integraciones y aplicaciones web.
-SEO técnico: rendimiento, indexación y datos estructurados.
+> **"Eleva tu presencia. Inicia el despegue."**
 
-Astravit en la web
+Agencia con base en **Montevideo, Uruguay**, para toda **Latinoamérica** 🌎. Código propio, sin plantillas, optimizado para Google desde el primer día.
 
-Website · Instagram · Facebook
+- 🛒 **Tiendas online a medida** — sin comisiones por venta, con el medio de pago de tu mercado.
+- 🎯 **Landing pages que convierten** — pensadas para Google/Meta Ads. Entrega en 2 semanas.
+- ⚡ **SEO técnico** — Core Web Vitals, indexación y datos estructurados.
+- 🌐 **100% remoto** — de Argentina a México.
 
-Conectemos
+[![Web](https://img.shields.io/badge/astravit.com-7E22CE?style=flat-square&logo=googlechrome&logoColor=white)](https://astravit.com)
+[![Instagram](https://img.shields.io/badge/@astravit.dev-C084FC?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/astravit.dev/)
+[![Facebook](https://img.shields.io/badge/Astravit-050A30?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/people/Astravit/61585357011457/)
 
-¿Tenés un proyecto, una propuesta de colaboración o simplemente querés conversar sobre desarrollo web?
+---
 
-Portfolio: ezfrandev.astravit.com
-Email: quijada.ezfrandev@gmail.com
-WhatsApp: Escribime
-GitHub: @EzfranQ
+## 📊 GitHub
 
 <div align="center">
 
-![Seguidores](https://img.shields.io/github/followers/EzfranQ?style=flat-square&color=7E22CE&label=Seguidores) ![Repositorios](https://img.shields.io/badge/Repositorios-Explorar-171717?style=flat-square&logo=github)
+[![Seguidores en GitHub](https://img.shields.io/github/followers/EzfranQ?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=7E22CE)](https://github.com/EzfranQ)
+[![Ver mis repositorios](https://img.shields.io/badge/Ver_mis_repos-C084FC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EzfranQ?tab=repositories)
 
-Diseñado y desarrollado con intención. — Astravit
+</div>
+
+---
+
+<div align="center">
+
+**¿Tenés un proyecto en mente?**
+📩 [quijada.ezfrandev@gmail.com](mailto:quijada.ezfrandev@gmail.com) · 💬 [WhatsApp](https://wa.link/geq8p9) · 🌐 [astravit.com](https://astravit.com)
+
+<sub>✨ Desarrollo web que desafía la gravedad ✨</sub>
 
 </div>
