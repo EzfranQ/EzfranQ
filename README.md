@@ -7,7 +7,7 @@
 ### Front-End Developer · Uruguay 🇺🇾 · Venezuela 🇻🇪
 
 
-**Desarrollo web que desafía la gravedad** 🚀
+**Desarrollo web que desafía la gravedad** 
 Fundador de la agencia [**Astravit**](https://astravit.com) · Interfaces rápidas, accesibles y con SEO desde el día uno.
 
 <br/>
@@ -25,13 +25,13 @@ Fundador de la agencia [**Astravit**](https://astravit.com) · Interfaces rápid
 
 Técnico Superior en Informática con +3 años desarrollando web. Trabajo como **freelance** y soy **fundador de Astravit**, la agencia con la que construimos tiendas online, landings y apps a medida — **con código propio, sin plantillas ni page builders**.
 
-- 🎯 Me especializo en **interfaces rápidas, accesibles y responsivas** (Core Web Vitals arriba, egress abajo).
-- 🤖 Integro **inteligencia artificial** en mi flujo de trabajo y **automatizo** las tareas repetitivas.
-- 🔍 Sumo **SEO técnico y posicionamiento** en Google desde el arranque, con datos de Search Console, no promesas.
+- Me especializo en **interfaces rápidas, accesibles y responsivas** (Core Web Vitals arriba, egress abajo).
+- Integro **inteligencia artificial** en mi flujo de trabajo y **automatizo** las tareas repetitivas.
+- Sumo **SEO técnico y posicionamiento** en Google desde el arranque, con datos de Search Console, no promesas.
 
 ---
 
-## 🧰 Stack & herramientas
+## Stack & herramientas
 
 **Lenguajes & frameworks**
 
@@ -55,7 +55,7 @@ Técnico Superior en Informática con +3 años desarrollando web. Trabajo como *
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 Proyectos reales en producción — la mayoría hechos con/para **Astravit**.
 
@@ -76,11 +76,11 @@ Proyectos reales en producción — la mayoría hechos con/para **Astravit**.
 
 ---
 
-## 🌌 Astravit — Agencia de desarrollo web
+## Astravit — Agencia de desarrollo web
 
 > **"Eleva tu presencia. Inicia el despegue."**
 
-Agencia con base en **Montevideo, Uruguay**, para toda **Latinoamérica** 🌎. Código propio, sin plantillas, optimizado para Google desde el primer día.
+Agencia con base en **Montevideo, Uruguay**, para toda **Latinoamérica**. Código propio, sin plantillas, optimizado para Google desde el primer día.
 
 - 🛒 **Tiendas online a medida** — sin comisiones por venta, con el medio de pago de tu mercado.
 - 🎯 **Landing pages que convierten** — pensadas para Google/Meta Ads. Entrega en 2 semanas.
@@ -93,7 +93,7 @@ Agencia con base en **Montevideo, Uruguay**, para toda **Latinoamérica** 🌎. 
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -109,6 +109,6 @@ Agencia con base en **Montevideo, Uruguay**, para toda **Latinoamérica** 🌎. 
 **¿Tenés un proyecto en mente?**
 📩 [quijada.ezfrandev@gmail.com](mailto:quijada.ezfrandev@gmail.com) · 💬 [WhatsApp](https://wa.link/geq8p9) · 🌐 [astravit.com](https://astravit.com)
 
-<sub>✨ Desarrollo web que desafía la gravedad ✨</sub>
+<sub>Desarrollo web que desafía la gravedad</sub>
 
 </div>
